@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">inviora</string>
+    <string name="plant_name">Nama Tanaman</string>
+    <string name="plant_name_sci">Nama ilmiah</string>
+    <string name="plant_detail">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</string>
+    <string name="deskripsi_tanaman">Deskripsi Tanaman</string>
+    <string name="asal_tanaman">Asal Tanaman</string>
+    <string name="sumber_pustaka">Sumber Pustaka</string>
+    <string name="inviora">inviora</string>
+    <string name="the_creator_of_inviora">the creator of inviora</string>
+    <string name="my_name">muhammad anindyo poetra mufatyta</string>
+    <string name="my_email">anindyo0216@gmail.com</string>
+    <string name="desc_app">inviora adalah aplikasi yang merangkum beragam tanaman-tanaman langka yang ada di dunia yang kadang tidak terlihat (invisible) oleh kita.</string>
+    <string name="about_inviora_app">about inviora app</string>
+    <string name="favorite">Favorite</string>
+    <string name="share">Share</string>
+</resources>

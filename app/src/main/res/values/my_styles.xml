@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="RoundedImage">
+        <item name="cornerSize">20%</item>
+    </style>
+
+    <style name="HeadingFont" parent="Theme.Inviora">
+        <item name="fontFamily">@font/poppins_bold</item>
+        <item name="android:includeFontPadding">false</item>
+    </style>
+
+    <style name="RegularFont" parent="Theme.Inviora">
+        <item name="fontFamily">@font/poppins</item>
+    </style>
+
+    <style name="SubheadingFont" parent="Theme.Inviora">
+        <item name="fontFamily">@font/poppins_medium</item>
+<!--        <item name="android:textColor">@color/primaryColor</item>-->
+    </style>
+    
+
+</resources>
